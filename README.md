@@ -22,7 +22,7 @@ Projects include:
   - Attention mechanisms
   - Byte Pair Encoding (BPE)
 
-### 3. Reinforcement Learning *(README not published yet)*
+### 3. Reinforcement Learning
 Introduction to reinforcement learning and deep learning-based control algorithms.  
 The final objective is inspired by **DeepMind (2013)**: building an AI capable of playing games using **Deep Reinforcement Learning**.
 
