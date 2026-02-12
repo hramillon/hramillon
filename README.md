@@ -7,7 +7,7 @@ Interests: Artificial Intelligence, Machine Learning, Distributed Systems, Algor
 
 This repository presents my academic and personal work, mainly focused on **Artificial Intelligence** and **Theoretical Computer Science**.
 
-# AI Projects
+## AI Projects
 
 Each project includes a bibliography, they are all based on, at least, the following references:
 
@@ -15,7 +15,7 @@ Each project includes a bibliography, they are all based on, at least, the follo
 - Charniak, E. *Introduction au Deep Learning*. Dunod.
 - Géron, A. *Deep Learning avec TensorFlow*. Dunod.
 
-## 1. Image Recognition: Cat Classification
+### 1. [Image Recognition: Cat Classification](https://github.com/hramillon/image_recognition_mlp_cnn)
 
 **Objective:** Build a deep learning model to recognize cats from scratch, with emphasis on understanding the mathematical foundations.
 
@@ -29,7 +29,7 @@ Each project includes a bibliography, they are all based on, at least, the follo
 - **Custom Implementation**
   - Built-from-scratch neural network model
 
-## 2. Natural Language Processing: French-to-English Translation
+### 2. [Natural Language Processing: French-to-English Translation](https://github.com/hramillon/natural_language_RNN_SEQ2SEQ)
 
 **Objective:** Implement sequence-to-sequence models culminating in a functional French-to-English translator.
 
@@ -48,7 +48,7 @@ Each project includes a bibliography, they are all based on, at least, the follo
 - **Final Project**
   - French-to-English neural translator
 
-## 3. Reinforcement Learning: Game Playing Agent
+### 3. [Reinforcement Learning: Game Playing Agent](https://github.com/hramillon/play_a_game_REINFORCEMENT_LEARNING)
 
 **Objective:** Develop a deep reinforcement learning agent capable of learning to play Flappy Bird, inspired by DeepMind's 2013 Atari research.
 
@@ -67,7 +67,7 @@ Each project includes a bibliography, they are all based on, at least, the follo
 - **Application**
   - Flappy Bird learning agent
 
-## 4. Image Generation: Generative Models for Cat Synthesis *(In Progress)*
+### 4. Image Generation: Generative Models for Cat Synthesis *(In Progress)*
 
 **Objective:** Generate realistic cat face images using generative models trained on a dataset of 30,000 64×64 cat face images.
 
