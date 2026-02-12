@@ -7,28 +7,83 @@ Interests: Artificial Intelligence, Machine Learning, Distributed Systems, Algor
 
 This repository presents my academic and personal work, mainly focused on **Artificial Intelligence** and **Theoretical Computer Science**.
 
-## AI Projects, Timeline
+# AI Projects
 
-### 1. Image Recognition
-Introduction to deep learning fundamentals and convolutional neural networks (CNNs).  
-The project focuses on pattern recognition in images, with a final objective: **recognizing my cat**, which is intentionally excluded from the training set to evaluate the model’s ability to generalize.
+Each project includes a bibliography, they are all based on, at least, the following references:
 
-### 2. Natural Language Processing
-Introduction to **Recurrent Neural Networks (RNNs)** and advanced cells such as **LSTM** and **GRU**.
+- Géron, A. *Machine Learning avec Scikit-Learn*. Dunod.
+- Charniak, E. *Introduction au Deep Learning*. Dunod.
+- Géron, A. *Deep Learning avec TensorFlow*. Dunod.
 
-Projects include:
-- A sentence generator using GRUs
-- A **French → English translator**, introducing:
+## 1. Image Recognition: Cat Classification
+
+**Objective:** Build a deep learning model to recognize cats from scratch, with emphasis on understanding the mathematical foundations.
+
+**Topics Covered:**
+- **Multilayer Perceptrons (MLP)**
+  - Backpropagation algorithm
+  - Activation functions and associated challenges
+- **Convolutional Neural Networks (CNN)**
+  - Feature map extraction and visualization
+  - Pooling operations
+- **Custom Implementation**
+  - Built-from-scratch neural network model
+
+## 2. Natural Language Processing: French-to-English Translation
+
+**Objective:** Implement sequence-to-sequence models culminating in a functional French-to-English translator.
+
+**Topics Covered:**
+- **Recurrent Neural Networks Fundamentals**
+  - Word embeddings
+  - N-gram models (bigram, trigram)
+- **Advanced RNN Cells**
+  - Long Short-Term Memory (LSTM)
+  - Gated Recurrent Units (GRU)
+  - Text generation
+- **Sequence-to-Sequence Models**
+  - Encoder-decoder architecture
   - Attention mechanisms
-  - Byte Pair Encoding (BPE)
+  - Byte Pair Encoding (BPE) tokenization
+- **Final Project**
+  - French-to-English neural translator
 
-### 3. Reinforcement Learning
-Introduction to reinforcement learning and deep learning-based control algorithms.  
-The final objective is inspired by **DeepMind (2013)**: building an AI capable of playing games using **Deep Reinforcement Learning**.
+## 3. Reinforcement Learning: Game Playing Agent
 
-### 4. Image Generation — Cat Generator *(ongoing)*
-Introduction to **Autoencoders (AE)** and **Variational Autoencoders (VAE)**.  
-The goal is to generate realistic images of cats using latent space representations.
+**Objective:** Develop a deep reinforcement learning agent capable of learning to play Flappy Bird, inspired by DeepMind's 2013 Atari research.
+
+**Topics Covered:**
+- **Reinforcement Learning Fundamentals**
+  - Core concepts and decision-making processes
+  - Integration with deep neural networks
+- **Theoretical Foundations**
+  - Markov Decision Processes
+  - Bellman equations
+  - Policy gradient methods
+- **Deep RL Algorithms**
+  - Deep Q-Networks (DQN)
+  - Double DQN architecture
+  - Dueling networks
+- **Application**
+  - Flappy Bird learning agent
+
+## 4. Image Generation: Generative Models for Cat Synthesis *(In Progress)*
+
+**Objective:** Generate realistic cat face images using generative models trained on a dataset of 30,000 64×64 cat face images.
+
+**Topics Covered:**
+- **Autoencoders (AE)**
+  - Encoder-decoder architecture
+  - Reconstruction loss and dimensionality reduction
+- **Variational Autoencoders (VAE)**
+  - Probabilistic latent space
+  - Sampling and generation
+- **Generative Adversarial Networks (GAN)**
+  - Generator and discriminator dynamics
+  - Comparative analysis with AE and VAE
+- **Implementation**
+  - Multi-generative model comparison
+  - Generation from 30K cat face dataset (64×64)
 
 ## Academic Works
 
@@ -46,6 +101,7 @@ The project will be published as a public repository once finalized.
 **2nd Place  Nuit de l’Info 2024**  
 Challenge: **"Mettez de l’intelligence dans votre moteur"**  
 Organized by the *Association Française pour l’Intelligence Artificielle (AFIA)*  
-link of the podium *https://www.nuitdelinfo.com/nuitinfo/defis2024:archives#defi60*
-link of the association : http://www.afia.asso.fr
+
+- link of the podium *https://www.nuitdelinfo.com/nuitinfo/defis2024:archives#defi60*
+- link of the association : http://www.afia.asso.fr
 
