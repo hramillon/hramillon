@@ -1,7 +1,6 @@
 # Hugo Ramillon
 
-**Computer Science Student** at Université de Bordeaux  
-Interests: Artificial Intelligence, Machine Learning, Distributed Systems, Algorithmics
+**Computer Science Student** at Université de Bordeaux interested in Artificial Intelligence, Machine Learning, Distributed Systems, Algorithmics.
 
 ## Guide Tour for Master's Jury
 
@@ -17,9 +16,8 @@ Each project includes a bibliography, they are all based on, at least, the follo
 
 ### 1. [Image Recognition: Cat Classification](https://github.com/hramillon/image_recognition_mlp_cnn)
 
-**Objective:** Build a deep learning model to recognize cats from scratch, with emphasis on understanding the mathematical foundations.
+Build a deep learning model to recognize cats from scratch, with emphasis on understanding the mathematical foundations.
 
-**Topics Covered:**
 - **Multilayer Perceptrons (MLP)**
   - Backpropagation algorithm
   - Activation functions and associated challenges
@@ -31,9 +29,8 @@ Each project includes a bibliography, they are all based on, at least, the follo
 
 ### 2. [Natural Language Processing: French-to-English Translation](https://github.com/hramillon/natural_language_RNN_SEQ2SEQ)
 
-**Objective:** Implement sequence-to-sequence models culminating in a functional French-to-English translator.
+Implement sequence-to-sequence models culminating in a functional French-to-English translator.
 
-**Topics Covered:**
 - **Recurrent Neural Networks Fundamentals**
   - Word embeddings
   - N-gram models (bigram, trigram)
@@ -50,9 +47,8 @@ Each project includes a bibliography, they are all based on, at least, the follo
 
 ### 3. [Reinforcement Learning: Game Playing Agent](https://github.com/hramillon/play_a_game_REINFORCEMENT_LEARNING)
 
-**Objective:** Develop a deep reinforcement learning agent capable of learning to play Flappy Bird, inspired by DeepMind's 2013 Atari research.
+Develop a deep reinforcement learning agent capable of learning to play Flappy Bird, inspired by DeepMind's 2013 Atari research.
 
-**Topics Covered:**
 - **Reinforcement Learning Fundamentals**
   - Core concepts and decision-making processes
   - Integration with deep neural networks
@@ -67,11 +63,9 @@ Each project includes a bibliography, they are all based on, at least, the follo
 - **Application**
   - Flappy Bird learning agent
 
-### 4. Image Generation: Generative Models for Cat Synthesis *(In Progress)*
+### 4. [Image Generation: Generative Models for Cat Synthesis](https://github.com/hramillon/generativeAI_for_cat_VAE_vs_GAN) *(In Progress)*
+Generate realistic cat face images using generative models trained on a dataset of 30,000 64×64 cat face images.
 
-**Objective:** Generate realistic cat face images using generative models trained on a dataset of 30,000 64×64 cat face images.
-
-**Topics Covered:**
 - **Autoencoders (AE)**
   - Encoder-decoder architecture
   - Reconstruction loss and dimensionality reduction
@@ -88,7 +82,7 @@ Each project includes a bibliography, they are all based on, at least, the follo
 ## Academic Works
 
 ### 1. Lower Bounds on a Memory-Constrained Bidirectional Enumerator
-Research project initiated during my internship at **LaBRI**, supervised by **Mr. Raskin**.
+Research project initiated during my internship at **LaBRI**, supervised by [**Mr. Raskin**](https://users.mccme.ru/raskin/), a searcher at LaBRI.
 
 The objective is to establish a **lower bound** for bidirectional enumeration problems under memory constraints, particularly for **unidirectional data structures** such as hash chains.
 
