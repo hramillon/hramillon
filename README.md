@@ -86,7 +86,7 @@ Research project initiated during my internship at **LaBRI**, supervised by [**M
 
 The objective is to establish a **lower bound** for bidirectional enumeration problems under memory constraints, particularly for **unidirectional data structures** such as hash chains.
 
-### 2. Coordination et exactitude dans les systèmes distribués *(ongoing)*
+### 2. Coordination et exactitude dans les systèmes distribués
 Academic work in **Epistemology**, nearing completion.  
 The project will be published as a public repository once finalized.
 
