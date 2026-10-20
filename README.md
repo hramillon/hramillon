@@ -6,7 +6,7 @@
 
 This repository presents my academic and personal work, mainly focused on **Artificial Intelligence** and **Theoretical Computer Science**.
 
-## AI Projects
+## recent AI Projects
 
 Each project includes a bibliography.
 
@@ -84,17 +84,17 @@ Language model implementation and text sequence generation, achieving a perplexi
 
 An experimental Physics-Informed Neural Networks (PINNs) through pendulum dynamics to understand how physical constraints can shape learning.
 
-* **Supervised Learning vs. PINNs**
-* Pure data-driven vs. physics-constrained model comparison
-* Impact of data scarcity and noise on predictions
-* **Physical Constraints & Generalization**
-* Network behavior with exact vs. approximated physical laws
-* Testing generalization across different physical parameters
-* **Inverse Problems**
-* Estimating unknown system parameters (e.g., pendulum length) from trajectory data
-* **Implementation**
-* Custom PyTorch from-scratch implementation
-* Dynamic visualizations of trajectories, errors, and physical loss residuals
+- **Supervised Learning vs. PINNs**
+  - Pure data-driven vs. physics-constrained model comparison
+  - Impact of data scarcity and noise on predictions
+- **Physical Constraints & Generalization**
+  - Network behavior with exact vs. approximated physical laws
+  - Testing generalization across different physical parameters
+- **Inverse Problems**
+  - Estimating unknown system parameters (e.g., pendulum length) from trajectory data
+- **Implementation**
+  - Custom PyTorch from-scratch implementation
+  - Dynamic visualizations of trajectories, errors, and physical loss residuals
     
 ## Academic Works
 
