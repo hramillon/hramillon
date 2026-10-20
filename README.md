@@ -1,6 +1,6 @@
 # Hugo Ramillon
 
-**DKAI Student** at Université de Paris Saclay interested in Artificial Intelligence, Machine Learning, Distributed Systems, Algorithmics. I want to find a way to an AI able to understand the world.
+**DKAI Student** at Université de Paris Saclay, interested in Artificial Intelligence, Machine Learning, Distributed Systems, and Algorithmics, seeking a path toward an AI capable of understanding the world.
 
 ## Guide Tour for Internships jury's
 
